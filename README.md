@@ -1,2 +1,4 @@
-# UGR-4774-12
-Portfolio page
+# Personal Portfolio and Profile page
+Name: Bamlaku Hiruy
+ID: UGR/4774/12
+SECTION: 3
